@@ -11,9 +11,9 @@
  
  - [ ] Wireframe the Check-In flow on Figma
  > - [ ] Mockup the Base
- >  - [ ] Create the graph's legend
- >   - [ ] Label the x as weeks
- >    - [ ] Label the y as pounds
- >     - [ ] Create one input form for inputting user's initial weight
- >      - [ ] Create one input form for inputting the user's estimated weight loss/gain
+ > - [ ] Create the graph's legend
+ > - [ ] Label the x as weeks
+ > - [ ] Label the y as pounds
+ > - [ ] Create one input form for inputting user's initial weight
+ > - [ ] Create one input form for inputting the user's estimated weight loss/gain
  ---
