@@ -17,3 +17,6 @@
  > - [ ] Create one input form for inputting user's initial weight
  > - [ ] Create one input form for inputting the user's estimated weight loss/gain
  ---
+
+> Using React Chart.js & Chart.js, we could create charts
+> Storybook gives us access to easy react components
