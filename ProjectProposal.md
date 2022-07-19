@@ -9,12 +9,12 @@ This exercise is designed to help you narrow the scope of your research down to 
   
 ## Research Area(s)
 > _What technical topic(s) are you planning to explore through this project?_
-* GraphQL
 * Nest.js
 * React
 * Three.js
 * Postgres
 * JWT
+* CockroachDB Serverless
 
 ## Problem Statement
  >_Young adults today have insecurities about their bodies. With the internet being a vast source of information, it overwhelms them. As a result, many go down an unfavorable path that tends to lead them to unwanted results. Through our web application, we will create a better alternative to navigating their weight journey._ 
@@ -35,3 +35,5 @@ This exercise is designed to help you narrow the scope of your research down to 
 > - [11 Ultimate Tips That Will Make Your Website User-Friendly](https://www.designhill.com/design-blog/ultimate-tips-that-will-make-your-website-user-friendly/)
 > - [How To Leverage Interactive Web Design To Increase User Engagement?](https://www.designhill.com/design-blog/how-to-leverage-interactive-web-design-to-increase-user-engagement/)
 > - [Documentation | NestJs](https://docs.nestjs.com/)
+> - [How To Calculate BMR](https://blog.nasm.org/nutrition/resting-metabolic-rate-how-to-calculate-and-improve-yours)
+> - [Mifflin St. Jeor Formula](https://www.leighpeele.com/mifflin-st-jeor-calculator)
