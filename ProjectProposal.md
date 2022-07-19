@@ -30,5 +30,5 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 ## Supporting Research
 > _Please include hyperlinks to blogs, research papers, and books that have helped inform your opinion so far or those that you believe will guide your research?_
->  [Muscle Hacking](https://www.musclehacking.com/calorie-calculator/#daily-calories-and-macros)
->  [The Nutrition Source by Havard](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
+> -  [Muscle Hacking](https://www.musclehacking.com/calorie-calculator/#daily-calories-and-macros)
+> -  [The Nutrition Source by Havard](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
