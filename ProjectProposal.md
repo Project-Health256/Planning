@@ -12,9 +12,9 @@ This exercise is designed to help you narrow the scope of your research down to 
 * Nest.js
 * React
 * Three.js
-* Postgres
 * JWT
 * CockroachDB Serverless
+* Chart.js
 
 ## Problem Statement
  >_Young adults today have insecurities about their bodies. With the internet being a vast source of information, it overwhelms them. As a result, many go down an unfavorable path that tends to lead them to unwanted results. Through our web application, we will create a better alternative to navigating their weight journey._ 
