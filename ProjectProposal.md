@@ -10,7 +10,7 @@ This exercise is designed to help you narrow the scope of your research down to 
 ## Research Area(s)
 > _What technical topic(s) are you planning to explore through this project?_
 * GraphQL
-* Next.js
+* Nest.js
 * React
 * Three.js
 * Postgres
