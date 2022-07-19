@@ -37,3 +37,5 @@ This exercise is designed to help you narrow the scope of your research down to 
 > - [Documentation | NestJs](https://docs.nestjs.com/)
 > - [How To Calculate BMR](https://blog.nasm.org/nutrition/resting-metabolic-rate-how-to-calculate-and-improve-yours)
 > - [Mifflin St. Jeor Formula](https://www.leighpeele.com/mifflin-st-jeor-calculator)
+> - [User flow is the new wireframe](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a)
+> - [User stories with examples and a template](https://www.atlassian.com/agile/project-management/user-stories)
